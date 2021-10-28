@@ -1,7 +1,8 @@
 import YTSearch from "youtube-api-search";
 
+
 import { YOUTUBE_API_KEY } from "../constants";
-import Video from "./../entities/Video";
+import Video from "../components/Videos"
 
 class DataService {
     loadData(term, handleVideos) {

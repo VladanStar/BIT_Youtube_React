@@ -9,7 +9,9 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.2"
+    "web-vitals": "^1.1.2",
+    "youtube-api-search": "0.0.5",
+    "youtube-search-api": "^1.0.11"
   },
   "scripts": {
     "start": "react-scripts start",

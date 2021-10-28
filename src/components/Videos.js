@@ -1,6 +1,6 @@
 import React from "react";
 
-import "./Video.css";
+import "./Videos.css";
 
 const Video = (props) => {
     return (
